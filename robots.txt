@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /blog/about/
-Disallow: /blog/portfolio/
+Disallow: /
+Allow: /blog/blog/
 
 Sitemap: https://lklab.github.io/blog/sitemap.xml
