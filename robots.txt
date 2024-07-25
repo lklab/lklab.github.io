@@ -1,5 +1,7 @@
 User-agent: *
 Disallow: /
+Allow: /blog/sitemap.xml
 Allow: /blog/blog/
+Allow: /blog/study/
 
 Sitemap: https://lklab.github.io/blog/sitemap.xml
